@@ -6,7 +6,6 @@
 
 - 🤝 I’m looking for help with [Project of doctor management](https://github.com/Mohamed86122/Project-of-doctors-management)
 
-- ⚡ Fun fact **jfjfjf**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
